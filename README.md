@@ -3,7 +3,7 @@ Hi, I'm Kevin, a Computer Science student at the University of Texas at Dallas.
 
 ![c-shield] ![cpp-shield] ![java-shield] ![python-shield] ![javascript-shield]
 
-![linux-shield] ![bash-shield] ![git-shield]
+![linux-shield] ![bash-shield] ![git-shield] ![vagrant-shield]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinharv&show_icons=true&theme=react&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=kevinharv&theme=react&hide_border=true)
@@ -16,3 +16,4 @@ Hi, I'm Kevin, a Computer Science student at the University of Texas at Dallas.
 [linux-shield]: https://img.shields.io/badge/Unix-20232A?style=for-the-badge&logo=archlinux
 [bash-shield]: https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnubash
 [git-shield]: https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git
+[vagrant-shield]: https://img.shields.io/badge/Vagrant-20232A?style=for-the-badge&logo=vagrant
