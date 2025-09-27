@@ -1,6 +1,4 @@
 # 🤵 About Me
-Hi, I'm Kevin, a Student Development Supervisor and Computer Science student at the University of Texas at Dallas. I'm on track to complete my undergraduate degree in December 2024, after which I hope to build a successful career centered around the development of great software that provides real value!
-
 Hi, I'm Kevin, an Associate Software Engineer at Southwest Airlines. I recently completed by Bachelor's of Science in Computer Science at The University of Texas at Dallas. I center myself around leveraging modern technology to generate real value for people.
 
 # 😍 My Passions
