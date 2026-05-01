@@ -1,15 +1,15 @@
 # 🤵 About Me
-Hi, I'm Kevin, an Associate Software Engineer at Southwest Airlines. I recently completed by Bachelor's of Science in Computer Science at The University of Texas at Dallas. I center myself around leveraging modern technology to generate real value for people.
+Hi, I'm Kevin, an Associate Software Engineer at Southwest Airlines. I hold a Computer Science degree from The University of Texas at Dallas. I center myself around leveraging modern technology to generate real value for people.
 
 # 😍 My Passions
 I enjoy architecting and building out secure, stable, and scalable software solutions. While the user experience is the most important, software should look good under the hood as well. Although unattainable, I strive for perfection with each project, learning as much as I can along the way.
 
-The sub-fields that stand out to me are Backend Software Engineering, Software Architecture, and ~~DevOps~~ Platform Engineering. I enjoy not only the development of features, but the deployment and operations components of a software solution. I like to straddle the line of the often opposed engineering and operations worlds!
+I enjoy architecting robust, reliable, and effective software solutions to real-world challenges. My primary domain of interest is Infrastructure and related shared platforms.
 
-In my free time I enjoy role-playing as a systems administrator and tinkering with enterprise grade system deployments in my homelab. When I need to get outside, I enjoy spending days on the lake wakesurfing and wakeboarding.
+In my free time I enjoy role-playing as a systems administrator and tinkering with enterprise grade system deployments in my homelab.
 
 # 💪 My Skillset
-These days, there are thousands, if not tens-of-thousands of technologies to learn. Choosing where to focus your efforts is often difficult. My repertoire has grown out of some combination of necessity and enthusiasm. Some skills are required for college, while others were developed for personal projects. 
+These days, there are thousands, if not tens-of-thousands of technologies to learn. Choosing where to focus your efforts is often difficult. My repertoire has grown out of some combination of necessity and enthusiasm. Some skills are required for college, some for employment, and others for personal projects. 
 
 If I had to distill it down, I'd define myself by the following competencies:
 
@@ -25,7 +25,6 @@ If I had to distill it down, I'd define myself by the following competencies:
 ### Tools and Frameworks
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### DevOps and Platforms
@@ -33,7 +32,6 @@ If I had to distill it down, I'd define myself by the following competencies:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -42,5 +40,3 @@ I'm always looking for new technologies to add to my toolbelt. Like most techies
 
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
